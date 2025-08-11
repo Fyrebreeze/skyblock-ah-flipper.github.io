@@ -1,6 +1,0 @@
-{
-  "name": "Hypixel Flip Finder",
-  "description": "A live Hypixel SkyBlock flip finder powered by AI. It identifies profitable opportunities by sniping auction house items, finding bazaar flips, and using AI to analyze market trends for undervalued items.",
-  "requestFramePermissions": [],
-  "prompt": ""
-}
